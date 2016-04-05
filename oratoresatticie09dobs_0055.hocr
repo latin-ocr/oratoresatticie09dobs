@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./oratoresatticie09dobs_0055.png"; bbox 0 0 1948 3322; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 613 1340 1163 1407">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 613 1340 1163 1407">
+     <span class='ocr_line' id='line_1_1' title="bbox 613 1340 1163 1407; baseline 0.002 -12"><span class='ocrx_word' id='word_1_1' title='bbox 613 1340 751 1407; x_wconf 21' lang='lat'>1..1.</span> <span class='ocrx_word' id='word_1_2' title='bbox 796 1340 1163 1396; x_wconf 87' lang='lat' dir='ltr'><strong>REISKII</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 731 1488 1059 1530">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 731 1488 1059 1530">
+     <span class='ocr_line' id='line_1_2' title="bbox 731 1488 1059 1530; baseline -0.003 0"><span class='ocrx_word' id='word_1_3' title='bbox 731 1488 813 1530; x_wconf 92' lang='lat' dir='ltr'>AN</span> <span class='ocrx_word' id='word_1_4' title='bbox 818 1488 855 1530; x_wconf 92' lang='lat' dir='ltr'>N</span> <span class='ocrx_word' id='word_1_5' title='bbox 863 1488 1059 1530; x_wconf 88' lang='lat' dir='ltr'><strong>OTATA</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 258 1617 1524 1674">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 258 1617 1524 1674">
+     <span class='ocr_line' id='line_1_3' title="bbox 258 1617 1524 1674; baseline 0.001 -2"><span class='ocrx_word' id='word_1_6' title='bbox 258 1618 370 1672; x_wconf 90' lang='lat' dir='ltr'>AD</span> <span class='ocrx_word' id='word_1_7' title='bbox 414 1617 867 1673; x_wconf 86' lang='lat' dir='ltr'><strong>ORATIONES</strong></span> <span class='ocrx_word' id='word_1_8' title='bbox 912 1618 1524 1674; x_wconf 88' lang='lat' dir='ltr'><strong>CONSULTORIAS</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 664 1833 1128 1889">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 664 1833 1128 1889">
+     <span class='ocr_line' id='line_1_4' title="bbox 664 1833 1128 1889; baseline 0.002 -1"><span class='ocrx_word' id='word_1_9' title='bbox 664 1833 1128 1889; x_wconf 85' lang='lat' dir='ltr'>SUASORIAS.</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
